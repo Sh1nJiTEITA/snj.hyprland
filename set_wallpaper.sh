@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WALLPAPER_DIR="$HOME/.config/hypr/wallpapers/nebula/"
+WALLPAPER_DIR="$HOME/Data/Pictures/"
 
 RANDOM_WALLPAPER=$(find "$WALLPAPER_DIR" -type f | shuf -n 1)
 
